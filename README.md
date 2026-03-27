@@ -3,8 +3,6 @@
 
 Howdy, my name is Eduardo and I'm a Brazilian fullstack developer
 
-- 🐧 I use arch btw
-- [MY WEBSITE](https://duardo.xyz)
 <br>
 
 **LANGUAGES**
