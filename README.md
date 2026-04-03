@@ -2,9 +2,9 @@
 
 # 👋 Hey, I'm Eduardo!
 
-**Brazilian Fullstack Developer** — passionate about building things that actually work.
+**Brazilian Backend Developer & Security Enthusiast** — passionate about building things that actually work.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-fabisiak-5b9196213/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duuuuardo)
 
 </div>
@@ -13,8 +13,8 @@
 
 ## 🧑‍💻 About me
 
-- 🇧🇷 Brazilian fullstack developer
-- ☕ Java, Kotlin & PHP enthusiast
+- 🇧🇷 Brazilian backend developer & security enthusiast
+- ❤️ Loves Java & Ruby (and PHP sometimes)
 - ⚙️ Focused on robust back-end and scalable systems
 - 🐧 Daily driver: Arch Linux + NeoVim
 
