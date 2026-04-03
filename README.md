@@ -14,7 +14,7 @@
 ## 🧑‍💻 About me
 
 - 🇧🇷 Brazilian backend developer & security enthusiast
-- ❤️ Loves Java & Kotlin (and PHP sometimes)
+- ❤️ Java & Kotlin (and PHP sometimes)
 - ⚙️ Focused on robust back-end and scalable systems
 - 🐧 Daily driver: Arch Linux + NeoVim
 
