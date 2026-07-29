@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About me
 
-- 🇧🇷 Brazilian Fullstack developer & security enthusiast
+- 🇧🇷 Brazilian Software Engineer & security enthusiast
 - ❤️ Java & Kotlin (and PHP sometimes)
 - ⚙️ Focused on robust back-end and scalable systems
 - 🐧 Daily driver: Arch Linux + NeoVim
