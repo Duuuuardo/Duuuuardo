@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About me
 
-- 🇧🇷 Software Engineer from Rio Grande do Sul, Brazil, working remotely
+- 🇧🇷 Software Engineer from Rio Grande do Sul, Brazil — open to remote or relocation
 - ⚙️ Focused on backend & distributed systems, with full-stack range
 - 🧱 Main stack: **Node.js · TypeScript · React · Java/Spring Boot · PostgreSQL · Redis · Docker · AWS**
 - 🐧 Daily driver: Arch Linux + NeoVim
