@@ -80,8 +80,7 @@ Centralized auth layer with **OAuth2, JWT and RBAC**, Stripe billing integration
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Duuuuardo&bg_color=05070c&color=8f9ab0&line=9ec5ff&point=e8ecf4&area=true&area_color=9ec5ff&border_color=1a2234&hide_border=true" width="100%"/>
-
+<img src="https://streak-stats.demolab.com/?user=Duuuuardo&background=05070c&ring=9ec5ff&fire=9ec5ff&currStreakLabel=e8ecf4&sideLabels=8f9ab0&dates=5c6880&border=1a2234&stroke=1a2234&currStreakNum=e8ecf4&sideNums=e8ecf4" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api?username=Duuuuardo&show_icons=true&hide_rank=true&bg_color=05070c&title_color=e8ecf4&text_color=8f9ab0&icon_color=9ec5ff&border_color=1a2234" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duuuuardo&layout=compact&bg_color=05070c&title_color=e8ecf4&text_color=8f9ab0&border_color=1a2234" height="160"/>
 
