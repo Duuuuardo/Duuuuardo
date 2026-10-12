@@ -1,88 +1,26 @@
+<img src="assets/header.svg" width="100%" alt="Eduardo Fabisiak - backend and full-stack software engineer"/>
+
+<br/>
+
+<img src="assets/work.svg" width="100%" alt="Featured work: Naia, Vianova, Onda, Curriculos, AnonDrop"/>
+
+<br/>
+
+<img src="assets/stack.svg" width="100%" alt="Stack: JavaScript, TypeScript, Java, Python, PHP, Ruby, Kotlin, Lua and more"/>
+
+<br/>
+
 <div align="center">
 
-# 👋 Hey, I'm Eduardo!
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Duuuuardo&bg_color=05070c&color=8f9ab0&line=9ec5ff&point=e8ecf4&area=true&area_color=9ec5ff&border_color=1a2234&hide_border=false" width="100%"/>
 
-**Backend & Full-Stack Software Engineer** · 4+ years building products end-to-end, from architecture to production.
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-fabisiak-5b9196213/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duuuuardo)
+<img src="https://github-readme-stats.vercel.app/api?username=Duuuuardo&show_icons=true&bg_color=05070c&title_color=e8ecf4&text_color=8f9ab0&icon_color=9ec5ff&border_color=1a2234" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duuuuardo&layout=compact&bg_color=05070c&title_color=e8ecf4&text_color=8f9ab0&border_color=1a2234" height="150"/>
 
 </div>
 
 ---
 
-## 🧑‍💻 About me
-
-- 🇧🇷 Software Engineer from Rio Grande do Sul, Brazil, working remotely
-- ⚙️ Focused on backend & distributed systems, with full-stack range
-- 🧱 Main stack: **Node.js · TypeScript · React · Java/Spring Boot · PostgreSQL · Redis · Docker · AWS**
-- 🐧 Daily driver: Arch Linux + NeoVim
-
----
-
-## 🚀 Featured projects
-
-### [Naia](https://github.com/Duuuuardo/Naia) · WhatsApp/Telegram Campaign SaaS
-Full-stack campaign dispatch platform with **98%+ message deliverability**, webhook processing, retry logic and monitoring.
-
-`Node.js` `TypeScript` `PostgreSQL` `Redis` `Docker` · **previously in production, now open source**
-
-### [Vianova](https://github.com/Duuuuardo/Vianova) · Identity & Billing Infrastructure
-Centralized auth layer with **OAuth2, JWT and RBAC**, Stripe billing integration and a versioned, documented REST API. **Previously in production, now open source**.
-
----
-
-## 💻 Stack
-
-**Backend**
-
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Frameworks**
-
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Data & Messaging**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=google&logoColor=white)
-
-**Cloud & Tools**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duuuuardo&theme=tokyonight" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Duuuuardo&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Duuuuardo&theme=tokyonight" width="49%"/>
-
-</div>
+<sub>`~/fabisiak.dev` · Rio Grande do Sul, Brazil · [eduardofabisiak@proton.me](mailto:eduardofabisiak@proton.me)</sub>

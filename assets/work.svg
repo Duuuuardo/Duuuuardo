@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="326" viewBox="0 0 1000 326" fill="none">
+  <style>
+    .mono { font-family: 'IBM Plex Mono', ui-monospace, SFMono-Regular, Menlo, monospace; }
+    @keyframes tw { 0%, 100% { opacity: .8; } 50% { opacity: .25; } }
+    .tw { animation: tw 4.3s ease-in-out infinite; }
+  </style>
+
+  <rect width="1000" height="326" fill="#05070c"/>
+  <rect x="0.5" y="0.5" width="999" height="325" stroke="#1a2234"/>
+
+  <g fill="#9ec5ff">
+    <circle class="tw" cx="945" cy="32" r="0.9"/>
+    <circle cx="620" cy="290" r="0.7" opacity="0.35"/>
+    <circle class="tw" cx="70" cy="300" r="0.8"/>
+  </g>
+
+  <text x="40" y="40" class="mono" font-size="13" fill="#9ec5ff">$ ls ~/work --featured</text>
+  <line x1="40" y1="58" x2="960" y2="58" stroke="#1a2234"/>
+
+  <g class="mono" font-size="13">
+    <text x="40" y="98" fill="#e8ecf4">naia</text>
+    <text x="220" y="98" fill="#5c6880">saas · messaging</text>
+    <text x="520" y="98" fill="#8f9ab0">multitenant whatsapp/telegram campaigns · 98%+ delivery</text>
+    <line x1="40" y1="116" x2="960" y2="116" stroke="#1a2234"/>
+
+    <text x="40" y="152" fill="#e8ecf4">vianova</text>
+    <text x="220" y="152" fill="#5c6880">identity · billing</text>
+    <text x="520" y="152" fill="#8f9ab0">OIDC provider · OAuth2 + 2FA · RBAC · Stripe subs</text>
+    <line x1="40" y1="170" x2="960" y2="170" stroke="#1a2234"/>
+
+    <text x="40" y="206" fill="#e8ecf4">onda</text>
+    <text x="220" y="206" fill="#5c6880">self-hosted · voice</text>
+    <text x="520" y="206" fill="#8f9ab0">discord alternative owned by the host · ondachat.app</text>
+    <line x1="40" y1="224" x2="960" y2="224" stroke="#1a2234"/>
+
+    <text x="40" y="260" fill="#e8ecf4">curriculos</text>
+    <text x="220" y="260" fill="#5c6880">ai · rails</text>
+    <text x="520" y="260" fill="#8f9ab0">job-tailored resumes · match scoring · multi-provider AI</text>
+    <line x1="40" y1="278" x2="960" y2="278" stroke="#1a2234"/>
+
+    <text x="40" y="310" fill="#e8ecf4">anondrop</text>
+    <text x="220" y="310" fill="#5c6880">oss · sharing</text>
+    <text x="520" y="310" fill="#8f9ab0">anonymous file sharing · collab code editing · diffs</text>
+  </g>
+</svg>
