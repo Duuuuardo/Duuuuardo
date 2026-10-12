@@ -5,7 +5,7 @@
 **Backend & Full-Stack Software Engineer** · 4+ years building products end-to-end, from architecture to production.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-fabisiak-5b9196213/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Duuuuardo)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fabisiakeduardo)
 
 </div>
 
@@ -22,12 +22,12 @@
 
 ## 🚀 Featured projects
 
-### [Naia](https://github.com/Duuuuardo/Naia) · WhatsApp/Telegram Campaign SaaS
+### [Naia](https://github.com/fabisiakeduardo/Naia) · WhatsApp/Telegram Campaign SaaS
 Full-stack campaign dispatch platform with **98%+ message deliverability**, webhook processing, retry logic and monitoring.
 
 `Node.js` `TypeScript` `PostgreSQL` `Redis` `Docker` · **previously in production, now open source**
 
-### [Vianova](https://github.com/Duuuuardo/Vianova) · Identity & Billing Infrastructure
+### [Vianova](https://github.com/fabisiakeduardo/Vianova) · Identity & Billing Infrastructure
 Centralized auth layer with **OAuth2, JWT and RBAC**, Stripe billing integration and a versioned, documented REST API. **Previously in production, now open source**.
 
 ---
@@ -87,8 +87,8 @@ Centralized auth layer with **OAuth2, JWT and RBAC**, Stripe billing integration
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=Duuuuardo&background=05070c&ring=9ec5ff&fire=9ec5ff&currStreakLabel=e8ecf4&sideLabels=8f9ab0&dates=5c6880&border=1a2234&stroke=1a2234&currStreakNum=e8ecf4&sideNums=e8ecf4" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Duuuuardo&show_icons=true&hide_rank=true&bg_color=05070c&title_color=e8ecf4&text_color=8f9ab0&icon_color=9ec5ff&border_color=1a2234" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duuuuardo&layout=compact&bg_color=05070c&title_color=e8ecf4&text_color=8f9ab0&border_color=1a2234" height="160"/>
+<img src="https://streak-stats.demolab.com/?user=fabisiakeduardo&background=05070c&ring=9ec5ff&fire=9ec5ff&currStreakLabel=e8ecf4&sideLabels=8f9ab0&dates=5c6880&border=1a2234&stroke=1a2234&currStreakNum=e8ecf4&sideNums=e8ecf4" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fabisiakeduardo&show_icons=true&hide_rank=true&bg_color=05070c&title_color=e8ecf4&text_color=8f9ab0&icon_color=9ec5ff&border_color=1a2234" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabisiakeduardo&layout=compact&bg_color=05070c&title_color=e8ecf4&text_color=8f9ab0&border_color=1a2234" height="160"/>
 
 </div>
