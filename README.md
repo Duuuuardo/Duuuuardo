@@ -74,6 +74,13 @@ Centralized auth layer with **OAuth2, JWT and RBAC**, Stripe billing integration
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![NeoVim](https://img.shields.io/badge/NeoVim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 
+**AI**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Devin](https://img.shields.io/badge/Devin-05070C?style=for-the-badge&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-9EC5FF?style=for-the-badge&logoColor=black)
+![OpenDesign](https://img.shields.io/badge/OpenDesign-1A2234?style=for-the-badge&logoColor=white)
+
 ---
 
 ## 📊 GitHub Stats
